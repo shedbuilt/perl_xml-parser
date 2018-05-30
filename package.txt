@@ -3,3 +3,5 @@ VERSION=2.44
 REVISION=1
 SRC=http://cpan.metacpan.org/authors/id/T/TO/TODDR/XML-Parser-2.44.tar.gz
 SRCMD5=af4813fe3952362451201ced6fbce379
+OPTIONS=bootstrap|release
+DEFAULTS=release
